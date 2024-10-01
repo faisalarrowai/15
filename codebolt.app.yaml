@@ -1,7 +1,7 @@
 appName: foreign-coffee
 appUniqueId: faisalarrowai/foreign-coffee
 description: This app will create slides presentation for you.
-appVersion: 1.0.2
+appVersion: 1.0.3
 appRepoUrl: https://github.com/faisalarrowai/15.git
 appIconUrl: you-app-icon-url
 appAuthorUserId: faisalarrowai
